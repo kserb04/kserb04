@@ -1,6 +1,7 @@
 # Hello 👋
 
-Hello! I am Klara, a 2nd year undergraduate Computer Science student at Faculty of Electrical Engineering and Computing, Universty of Zagreb ([FER ZG](https://www.fer.unizg.hr/).
+Hello! I am Klara, a 2nd year undergraduate Computer Science student at [Faculty of Electrical Engineering and Computing, Universty of Zagreb](https://www.fer.unizg.hr/).
+
 You can find examples of my code here.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
