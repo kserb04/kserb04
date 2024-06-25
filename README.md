@@ -13,19 +13,19 @@ You can find examples of my code here.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Web
-A simple e-commerce store written in HTML, CSS, Javascript (Node.js).
+[A simple e-commerce store written in HTML, CSS, Javascript (Node.js).](https://github.com/kserb04/web)
 
 ## OS
-Several basic OS concepts implemented in pure C.
+[Several basic OS concepts implemented in pure C.](https://github.com/kserb04/os)
 
 ## Discrete math
-Some discrete math problems solved in Python.
+[Some discrete math problems solved in Python.](https://github.com/kserb04/dismat)
 
 ## Theory of computing
-Few fundamental problems in theory of computing implemented in Python.
+[Few fundamental problems in theory of computing implemented in Python.](https://github.com/kserb04/toc)
 
 ## ARM
-A calculator and a coffee machine controller written in ARM assembly.
+[A calculator and a coffee machine controller written in ARM assembly.](https://github.com/kserb04/assembly)
 
 ### TMI
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 (I hope to add another one next year)
