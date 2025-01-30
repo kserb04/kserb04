@@ -28,4 +28,4 @@ You can find examples of my code here.
 [A calculator and a coffee machine controller written in ARM assembly.](https://github.com/kserb04/assembly)
 
 ### TMI
-🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 (I hope to add another one next year)
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀 
