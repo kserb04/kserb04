@@ -1,6 +1,6 @@
 # Hello 👋
 
-Hello! I am Klara, a 3rd year undergraduate Computing student at [Faculty of Electrical Engineering and Computing, Universty of Zagreb](https://www.fer.unizg.hr/).
+Hello! I am Klara, a 3rd year undergraduate Computer Science student at [Faculty of Electrical Engineering and Computing, Universty of Zagreb](https://www.fer.unizg.hr/).
 
 You can find examples of my code here.
 
