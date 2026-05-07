@@ -1,5 +1,3 @@
-# Hi 👋
-
 I am Klara, a first-year Master's student in Data Science student at [Faculty of Electrical Engineering and Computing, Universty of Zagreb](https://www.fer.unizg.hr/).
 
 You can find examples of my code here.
